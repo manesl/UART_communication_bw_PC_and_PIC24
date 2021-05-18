@@ -1,7 +1,7 @@
 # UART_with_Interrupts
 Link: https://drive.google.com/file/d/1SGiVCh0zfQ1kJeLf4K_PefrgcPoTO7bK/view?usp=sharing
 
-This lab is about setting up UART communication between the PC terminal (Putty) and PIC24. The input to the PIC24 is via keyboard and the output of the PIC24 goes to the terminal.
+This lab is about setting up UART communication between the PC terminal (PuTTY) and PIC24. The input to the PIC24 is via keyboard and the output of the PIC24 goes to the terminal.
 
 UART Data format: 8 bits data, no parity, 1 stop bit and 9600 bps.
 
